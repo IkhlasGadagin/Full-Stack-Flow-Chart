@@ -85,7 +85,7 @@ Edit
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/fullstack-auth-flow.git
+git clone https://github.com/IkhlasGadagin/Full-Stack-Flow-Chart
 cd fullstack-auth-flow
 Set Up the Server
 bash
@@ -120,9 +120,9 @@ This project is licensed under the MIT License.
 👨‍💻 Author
 Name: Your Name
 
-GitHub: @yourusername
+GitHub: https://github.com/IkhlasGadagin/Full-Stack-Flow-Chart
 
-Email: youremail@example.com
+Email: ikhlashgadagin@gmail.com
 
 yaml
 Copy
