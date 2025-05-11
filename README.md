@@ -2,7 +2,7 @@
 🔐 Full-Stack Authentication Flow System
 ![CodersGyan eBook API Demo](./src/assets/FlowDiagram.png)
 👌😊SCAN for the Clear Flow Diagram!🙌😍
-![CodersGyan eBook API Demo](./src/assets/QRforFloW.png)
+![CodersGyan eBook API Demo](./src/assets/QRforFloW.jpg)
 This is a complete **Full-Stack Authentication Flow** system built with **React**, **Redux**, **Node.js**, **Express**, **MongoDB**, and **JWT**. It includes user authentication, protected routes, token handling, global error management, and an integrated front-end and back-end architecture.
 
 > 🖼️ **Note**: This project includes an image diagram that visually represents the entire flow of all the keywords and components described below—from front-end to back-end. It is highly recommended to refer to the diagram for a better understanding of the architecture and data flow.
